@@ -49,4 +49,4 @@ The Solution is to design the architeture by using the following services -
 
 	Stripe: Provides a secured payment gateway for customers to pay for the service used. 
 
-![1]Arch final.jpg
+![1]https://github.com/akshaygidh/AWS-Cloud-Architecture/blob/master/Arch%20final.jpg
