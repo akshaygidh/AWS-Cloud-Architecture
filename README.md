@@ -49,4 +49,4 @@ The Solution is to design the architeture by using the following services -
 
 	Stripe: Provides a secured payment gateway for customers to pay for the service used. 
 
-<img> Arch Final.jpeg
+<img> Arch final.jpg
